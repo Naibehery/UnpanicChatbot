@@ -1,0 +1,1 @@
+pip install streamlit langchain langchain-community sentence-transformers faiss-cpu ollama
